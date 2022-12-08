@@ -1,0 +1,14 @@
+-> É um banco de dados baseado no SQLite, porém é um banco da dados CHAVE/VALOR - isto é, não possui o relacionamento chave/tabela.
+    -> Armazena uma chave e, dentro desta chave, armazena um valor, que pode ser uma string, um number.
+
+-> Comando para instalar o AsyncStorage:
+    -> Windows/Linux:
+        npm install @react-native-async-storage/async-storage
+
+    -> macOS ou iOS:
+        npx pod-install
+
+    expo install @react-native-async-storage/async-storage
+    expo install @react-native-community/async-storage
+
+-> Comando para importar: import AsyncStorage from "@react-native-async-storage/async-storage"

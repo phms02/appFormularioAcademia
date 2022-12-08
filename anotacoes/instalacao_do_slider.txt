@@ -1,0 +1,10 @@
+-> Para instalar no Windows/Linux:
+    npm install @react-native-community/slider
+    npm install @react-native-community/slider --save
+    yarn add @react-native-community/slider
+
+-> Após instalar, só importar:
+    import Slider from "@react-native-slider/slider"
+    import Slider from "@react-native-community/slider"
+
+-> Documentação do Slider: https://github.com/callstack/react-native-slider

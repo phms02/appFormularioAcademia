@@ -1,0 +1,14 @@
+-> Comando para instalar (Windows e iOS):
+    npm install @react-native-picker/picker
+    npm install @react-native-picker/picker --save
+    yarn add @react-native-picker/picker
+
+-> Após instalar, só importar:
+    import { Picker } from "@react-native-picker/picker"
+    import { Picker } from "@react-native-community/picker"
+
+PARA iOS:
+    npx pod-install
+    pod install
+
+-> Documentação do Picker: https://github.com/react-native-picker/picker
